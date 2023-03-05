@@ -3,5 +3,8 @@ public class Employee {
     String lastname;
     int age;
 
+    public void wypisz (){
+        System.out.println(firstname + " " + lastname + " " + age);
+    }
 
 }
