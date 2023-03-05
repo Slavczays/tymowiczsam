@@ -9,3 +9,4 @@ public class Program {
         employee1.wypisz();
     }
 }
+//trzeci commit próba
