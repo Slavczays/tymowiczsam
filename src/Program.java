@@ -8,4 +8,4 @@ public class Program {
 
         employee1.wypisz();
     }
-}//szósty commit i push
+}//siódmy commit i push
